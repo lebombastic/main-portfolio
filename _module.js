@@ -5109,8 +5109,8 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Template",
-				description: "Cupidatat est tempor"
+				title: "Abdelfatah",
+				description: "Abdelfatah's Portfolio"
 			}
 		});
 
@@ -5134,7 +5134,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Template",
+				title: "Abdelfatah",
 				description: {
 					"html": "<p>Front-End Web Developer | Senior IT information</p>",
 					"markdown": "Front-End Web Developer | Senior IT information"
@@ -5189,8 +5189,8 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Template",
-				description: "Cupidatat est tempor",
+				title: "Abdelfatah",
+				description: "Abdelfatah's Portfolio",
 				heading: "About Me",
 				content: {
 					"html": "<p>Self-taught frontend developer who has started his journey on late 2019. Building many projects &amp; websites with the latest modern technologies such as Svelte, Pure CSS and some ReactJS </p>",
@@ -5219,7 +5219,7 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Template",
+				title: "Abdelfatah",
 				description: {
 					"html": "<p>Some technologies i’ve been using lately:</p>",
 					"markdown": "Some technologies i’ve been using lately:\n\n"
@@ -5263,8 +5263,8 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Template",
-				description: "Cupidatat est tempor",
+				title: "Abdelfatah",
+				description: "Abdelfatah's Portfolio",
 				galleries: [
 					{
 						"name": "Websites",
@@ -5373,8 +5373,8 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Template",
-				description: "Cupidatat est tempor",
+				title: "Abdelfatah",
+				description: "Abdelfatah's Portfolio",
 				heading: "Get in touch",
 				email: "me.abdelfatah@gmail.com | dev@abdelfatax.com",
 				social_links: [
@@ -5418,8 +5418,8 @@ function create_fragment$7(ctx) {
 						"link": { "url": "/projects", "label": "Projects" }
 					}
 				],
-				title: "Portfolio Template",
-				description: "Cupidatat est tempor"
+				title: "Abdelfatah",
+				description: "Abdelfatah's Portfolio"
 			}
 		});
 
