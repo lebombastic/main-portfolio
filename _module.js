@@ -5167,8 +5167,8 @@ function create_fragment$7(ctx) {
 					},
 					{
 						"link": {
-							"label": "Resume",
-							"url": "https://github.com/lebombastic/main-portfolio/blob/f88953a8f457ff049a977fec56fb70dd7549bf73/Abdelfatah's%20Resume.pdf"
+							"url": "https://raw.githubusercontent.com/lebombastic/lebombastic/main/Abdelfatah's%20Resume.pdf",
+							"label": "Resume"
 						},
 						"icon": "mdi:resume"
 					}
