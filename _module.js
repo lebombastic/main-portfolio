@@ -5148,22 +5148,29 @@ function create_fragment$7(ctx) {
 				},
 				social_links: [
 					{
-						"icon": "mdi:instagram",
 						"link": {
 							"url": "https://instagram.com/lemeabdo",
 							"label": "Instagram"
-						}
+						},
+						"icon": "mdi:instagram"
 					},
 					{
-						"icon": "mdi:github",
 						"link": {
 							"url": "https://github.com/lebombastic",
 							"label": "Github"
-						}
+						},
+						"icon": "mdi:github"
 					},
 					{
-						"icon": "mdi:briefcase-outline",
-						"link": { "url": "/", "label": "Freelance" }
+						"link": { "url": "/", "label": "Freelance" },
+						"icon": "mdi:briefcase-outline"
+					},
+					{
+						"link": {
+							"label": "Resume",
+							"url": "https://github.com/lebombastic/main-portfolio/blob/f88953a8f457ff049a977fec56fb70dd7549bf73/Abdelfatah's%20Resume.pdf"
+						},
+						"icon": "mdi:resume"
 					}
 				]
 			}
