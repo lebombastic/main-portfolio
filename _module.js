@@ -5293,9 +5293,8 @@ function create_fragment$7(ctx) {
 							{
 								"desc": "A Church website",
 								"link": {
-									"url": "",
-									"label": "Visit here",
-									"active": false
+									"url": "https://livinghopeepc.org/",
+									"label": "Visit here"
 								},
 								"image": {
 									"alt": "",
