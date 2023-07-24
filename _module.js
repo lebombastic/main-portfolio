@@ -5279,9 +5279,8 @@ function create_fragment$7(ctx) {
 							{
 								"desc": "Saint Andrew's Refugee Services is a non-profit organization that helps refugee based in Egypt - i developed their website from scratch.",
 								"link": {
-									"url": "stars-egypt.org",
-									"label": "Visit here",
-									"active": false
+									"url": "https://stars-egypt.org/",
+									"label": "Visit here"
 								},
 								"image": {
 									"alt": "",
